@@ -1,0 +1,11 @@
+file_type: demo
+type: application
+title: Terraform Google Three Tier Web App
+thumbnail_summary: This is a three tier web app that uses Terraform to deploy three separate Compute Engine instances.
+purpose: This demo shows how to deploy a three tier web app using Terraform.
+business_value: This demo can help customers deploy scalable web apps.
+technical_value: This demo can help customers understand how to use Terraform to deploy infrastructure.
+demo_guide: https://github.com/GoogleCloudPlatform/terraform-google-three-tier-web-app/blob/main/docs/README.md
+products:
+  - compute_engine
+owner: akioolvera
